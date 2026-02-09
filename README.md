@@ -1,14 +1,18 @@
 # Syntax Police
 
-Give them a CSS file with:
+The HTML and CSS file contains:
 
 - Missing semicolons
+
+- Misplaced quotes
 
 - Bad selectors
 
 - Overwritten rules
 
 - Invalid properties
+
+- Wrong spellings
 
 #### Your Job: fix everything and explain each fix.
 
