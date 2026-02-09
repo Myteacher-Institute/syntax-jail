@@ -1,4 +1,4 @@
-# CSS Syntax Police
+# Syntax Police
 
 Give them a CSS file with:
 
