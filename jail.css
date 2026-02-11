@@ -1,18 +1,22 @@
 body {
-    font-family Arial
-    background-color: #f5f5f5;
+  font-family: Arial;
+  background-color: #f5f5f5;
 }
+/* no colum and semi-colum */
 
 .title {
-    color blue;
-    font-size 32px;
+  color: blue;
+  font-size: 32px;
 }
+/* no colum */
 
 #text {
-    color: #333333;
-    line-height: 1.2
+  color: #333333;
+  line-height: 1.2px;
 }
+/* no stated unint of measurement */
 
 a:hover {
-    text-decoration underline;
+  text-decoration: underline;
 }
+/* no column */
