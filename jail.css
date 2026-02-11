@@ -1,20 +1,27 @@
 body {
-    font-family: Arial, {colon expected}
-    background-color #f5f5f5 {removed the unecessary}
+    font-family: Arial, 
+        /* {colon expected} */
+    background-color #f5f5f5 
+/* {removed the unecessary} */
 }
 
 .title {
-    color :blue {colon added, semi-colon removed}
-    font-size: 32px; {once the semi-colon was removed in respect the color and a colon was added, this problem fixed itself}
+    color :blue 
+    /* {colon added, semi-colon removed} */
+    font-size: 32px; 
+    /* {once the semi-colon was removed in respect the color and a colon was added, this problem fixed itself} */
 }
 
 }
 
 a:hover {
-    text-decoration :underline;{added a colon}
+    text-decoration :underline;
+    /* {added a colon} */
 
 }
 
 #text {
     color: #333333;
-    line-height: 1.2; {semi-colon was added} {re-arranged text and hover}
+    line-height: 1.2; 
+    /* {semi-colon was added} {re-arranged text and hover} */
+
