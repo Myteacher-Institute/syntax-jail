@@ -1,10 +1,10 @@
 body {
-    font-family Arial
-    background-color: #f5f5f5;
+    font-family: Arial, H
+    background-color #f5f5f5
 }
 
 .title {
-    color blue;
+    color :blue
     font-size 32px;
 }
 
@@ -14,5 +14,5 @@ body {
 }
 
 a:hover {
-    text-decoration underline;
+    text-decoration :underline;
 }
