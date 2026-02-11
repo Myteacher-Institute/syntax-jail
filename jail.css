@@ -1,11 +1,11 @@
 body {
-    font-family: Arial, H
-    background-color #f5f5f5
+    font-family: Arial, {colon expected}
+    background-color #f5f5f5 {removed the unecessary}
 }
 
 .title {
-    color :blue
-    font-size 32px;
+    color :blue {colon added, semi-colon removed}
+    font-size: 32px; {once the semi-colon was removed in respect the color and a colon was added, this problem fixed itself}
 }
 
 #text {
@@ -14,5 +14,6 @@ body {
 }
 
 a:hover {
-    text-decoration :underline;
+    text-decoration :underline;{added a colon}
+
 }
